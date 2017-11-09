@@ -1,0 +1,17 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "stream stuff",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "formidable": "^1.1.1",
+    "multer": "^1.2.0",
+    "body-parser": "1.18.2"
+  },
+  "author": "dan",
+  "license": "ISC"
+}
